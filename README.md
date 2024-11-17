@@ -1,8 +1,7 @@
-# EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-4-ADVANCED ENCRYPTION STANDARD ALGORITHM
 
 ## Aim:
-
-To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
+  To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
 ## ALGORITHM: 
   1. AES is based on a design principle known as a substitution–permutation. 
@@ -10,7 +9,7 @@ To use Advanced Encryption Standard (AES) Algorithm for a practical application 
   3. It has a fixed block size of 128 bits, and a key size of 128, 192, or 256 bits. 
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
-## PROGRAM: 
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -41,9 +40,11 @@ int main() {
 
     return 0;
 }
+ 
 ```
+
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/676fa017-0a3f-4621-8d72-d9ef299d5d67)
+![image](https://github.com/user-attachments/assets/8a5d17ce-e663-4c54-8efa-62fb90d85a9b)
 
 ## RESULT: 
 Thus , to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
